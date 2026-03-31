@@ -1,12 +1,12 @@
 # Infosys_Food_Trends-Understanding-Customer-Preferences-in-FB(Batch-13)
 
-** Project Overview**
+**Project Overview**
 
 This project focuses on analyzing restaurant data to understand customer behavior, preferences, and market trends in the food and beverage industry. Using Power BI, the project transforms raw data into meaningful insights through interactive dashboards and visualizations.
 
 The analysis is based on a Zomato dataset and aims to support data-driven decision-making by identifying performance patterns, customer engagement levels, and hidden opportunities within the restaurant ecosystem.
 
-**🎯 Objective**
+**Objective**
 
 The primary objective of this project is to:
 
@@ -17,7 +17,7 @@ Segment users based on interaction patterns
 Detect hidden opportunities such as “Hidden Gem” restaurants
 Build interactive dashboards for better business insights
 
-**📊 Dataset**
+**Dataset**
 Source: Kaggle (Zomato Dataset)
 Type: Structured data
 Key Features:
@@ -28,7 +28,7 @@ Average Rating
 Votes (Customer Engagement)
 Pricing and other attributes
 
-**🛠️ Tools & Technologies Used**
+**Tools & Technologies Used**
 Microsoft Power BI
 Power Query (Data Cleaning & Transformation)
 DAX (Data Analysis Expressions)
@@ -53,15 +53,15 @@ Structuring data for efficient analysis
 Interactive visuals and KPIs using Power BI
 📈 Key Dashboards & Analysis
 
-1️⃣ Sentiment Analysis
+1️⃣ Sentiment Analysis:
 Performed sentiment classification based on ratings
 Identified overall customer satisfaction trends
 
-2️⃣ Product Insights
+2️⃣ Product Insights:
 Compared cuisine performance
 Identified top-performing and low-performing categories
 
-3️⃣ Customer Segmentation
+3️⃣ Customer Segmentation:
 Segmented users into:
 Loyal Fans
 Silent Users
@@ -71,7 +71,7 @@ Ratings
 Votes
 Sentiment
 
-4️⃣ Strategy & Innovation Dashboard
+4️⃣ Strategy & Innovation Dashboard:
 Identified Hidden Gem Restaurants (high rating, low engagement)
 Built Opportunity Matrix (Rating vs Engagement)
 Highlighted:
