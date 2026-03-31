@@ -1,4 +1,4 @@
-# Infosys_Food_Trends-Understanding-Customer-Preferences-in-FB(Batch-13)
+# Infosys-Food-Trends-Understanding-Customer-Preferences-in-FB(Batch-13)
 
 **Project Overview**
 
@@ -51,17 +51,17 @@ Structuring data for efficient analysis
 
 **Dashboard Development**
 Interactive visuals and KPIs using Power BI
-📈 Key Dashboards & Analysis
+Key Dashboards & Analysis
 
-1️⃣ Sentiment Analysis:
+1️. Sentiment Analysis:
 Performed sentiment classification based on ratings
 Identified overall customer satisfaction trends
 
-2️⃣ Product Insights:
+2️. Product Insights:
 Compared cuisine performance
 Identified top-performing and low-performing categories
 
-3️⃣ Customer Segmentation:
+3️. Customer Segmentation:
 Segmented users into:
 Loyal Fans
 Silent Users
@@ -71,7 +71,7 @@ Ratings
 Votes
 Sentiment
 
-4️⃣ Strategy & Innovation Dashboard:
+4️. Strategy & Innovation Dashboard:
 Identified Hidden Gem Restaurants (high rating, low engagement)
 Built Opportunity Matrix (Rating vs Engagement)
 Highlighted:
@@ -118,4 +118,4 @@ This project was developed as part of academic coursework to demonstrate practic
 
 It reflects a complete end-to-end workflow — from raw data processing to insight generation and strategic recommendation.
 
-
+Due to file size limitations, please click "View Raw" to download the files.
